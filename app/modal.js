@@ -17,7 +17,7 @@ function carregarPaises(info) {
       <img src="${flag.imagem}" alt="Bandeira de ${flag.nome}">
       <h3>${flag.nome}</h3>
     `;
-    card.addEventListener("click", () => abrirModal(flag));
+   card.addEventListener("click", () => abrirModal(flag));
     container.appendChild(card);
   });
 }

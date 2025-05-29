@@ -1,3 +1,5 @@
+import  abrirModal  from "./modal.js";
+
 let todosPaises = [];
 let quantidadeExibida = 0;
 const incremento = 25; 
@@ -48,7 +50,7 @@ function preencherFiltros(paises) {
      selectCopa.appendChild(opNao); 
   }
 
-function exibirPaises(lista) {
+export function exibirPaises(lista) {
     const container = document.getElementById("flags-container");
     container.innerHTML = "";
 
@@ -56,6 +58,7 @@ function exibirPaises(lista) {
         const card = document.createElement('div');
         card.classList.add('card');
         card.innerHTML =  `<img src="${pais.imagem}" alt="Bandeira de ${pais.nome}"> <h3>${pais.nome}</h3>`;
+        card.addEventListener("click", () => abrirModal(pais));
         container.appendChild(card);
     });
 }
