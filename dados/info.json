@@ -1,0 +1,468 @@
+ [
+    {
+      "id": 1,
+      "nome": "Brasil",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+      "populacao": 203062512,
+      "lingua_falada": "Português",
+      "continente": "América do Sul",
+      "capital": "Brasília",
+      "Copas_do_mundo": "5 masculina"
+    },
+    {
+      "id": 2,
+      "nome": "França",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+      "populacao": 67500000,
+      "lingua_falada": "Francês",
+      "continente": "Europa",
+      "capital": "Paris",
+      "Copas_do_mundo": "2 masculina"
+    },
+    {
+      "id": 3,
+      "nome": "Japão",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+      "populacao": 125800000,
+      "lingua_falada": "Japonês",
+      "continente": "Ásia",
+      "capital": "Tóquio",
+      "Copas_do_mundo": "1 feminina"
+    },
+    {
+      "id": 4,
+      "nome": "Egito",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+      "populacao": 109300000,
+      "lingua_falada": "Árabe",
+      "continente": "África",
+      "capital": "Cairo"
+    },
+    {
+      "id": 5,
+      "nome": "Canadá",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+      "populacao": 38900000,
+      "lingua_falada": "Inglês e Francês",
+      "continente": "América do Norte",
+      "capital": "Ottawa"
+    },
+    {
+      "id": 6,
+      "nome": "Alemanha",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+      "populacao": 83200000,
+      "lingua_falada": "Alemão",
+      "continente": "Europa",
+      "capital": "Berlim",
+      "Copas_do_mundo": "4 masculina e 2 feminina"
+        
+    },
+    {
+      "id": 7,
+      "nome": "Índia",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "populacao": 1428627663,
+      "lingua_falada": "Hindi e Inglês",
+      "continente": "Ásia",
+      "capital": "Nova Deli"
+    },
+    {
+      "id": 8,
+      "nome": "Estados Unidos",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+      "populacao": 339996563,
+      "lingua_falada": "Inglês",
+      "continente": "América do Norte",
+      "capital": "Washington, D.C.",
+      "Copas_do_mundo": "4 feminina"
+    },
+    {
+      "id": 9,
+      "nome": "China",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+      "populacao": 1412000000,
+      "lingua_falada": "Mandarim",
+      "continente": "Ásia",
+      "capital": "Pequim"
+    },
+    {
+      "id": 10,
+      "nome": "Austrália",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+      "populacao": 26700000,
+      "lingua_falada": "Inglês",
+      "continente": "Oceania",
+      "capital": "Canberra"
+    },
+    {
+      "id": 11,
+      "nome": "México",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+      "populacao": 126000000,
+      "lingua_falada": "Espanhol",
+      "continente": "América do Norte",
+      "capital": "Cidade do México"
+    },
+    {
+      "id": 12,
+      "nome": "Rússia",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+      "populacao": 144000000,
+      "lingua_falada": "Russo",
+      "continente": "Europa/Ásia",
+      "capital": "Moscou"
+    },
+    {
+      "id": 13,
+      "nome": "Argentina",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+      "populacao": 46000000,
+      "lingua_falada": "Espanhol",
+      "continente": "América do Sul",
+      "capital": "Buenos Aires",
+      "Copas_do_mundo": "3 masculina"
+    },
+    {
+      "id": 14,
+      "nome": "África do Sul",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+      "populacao": 60000000,
+      "lingua_falada": "11 línguas oficiais (incluindo Zulu, Xhosa, Africâner, Inglês)",
+      "continente": "África",
+      "capital": "Pretória (executiva), Cidade do Cabo (legislativa), Bloemfontein (judiciária)"
+    },
+    {
+      "id": 15,
+      "nome": "Itália",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+      "populacao": 59000000,
+      "lingua_falada": "Italiano",
+      "continente": "Europa",
+      "capital": "Roma",
+      "Copas_do_mundo": "4 masculina"
+    },
+
+     {
+      "id": 16,
+      "nome": "Bélgica",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+      "populacao": 11500000,
+      "lingua_falada": "Neerlandês, Francês, Alemão",
+      "continente": "Europa",
+      "capital": "Bruxelas"
+    },
+    {
+      "id": 17,
+      "nome": "Uruguai",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+      "populacao": 3500000,
+      "lingua_falada": "Espanhol",
+      "continente": "América do Sul",
+      "capital": "Montevidéu",
+      "Copas_do_mundo": "2 masculina"
+    },
+    {
+      "id": 18,
+      "nome": "Angola",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+      "populacao": 36000000,
+      "lingua_falada": "Português",
+      "continente": "África",
+      "capital": "Luanda"
+    },
+    {
+      "id": 19,
+      "nome": "Nigéria",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+      "populacao": 223800000,
+      "lingua_falada": "Inglês",
+      "continente": "África",
+      "capital": "Abuja"
+    },
+    {
+      "id": 20,
+      "nome": "Catar",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+      "populacao": 2800000,
+      "lingua_falada": "Árabe",
+      "continente": "Ásia",
+      "capital": "Doha"
+    },
+    {
+      "id": 21,
+      "nome": "Nova Zelândia",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+      "populacao": 5200000,
+      "lingua_falada": "Inglês, Maori, Língua de Sinais Neozelandesa",
+      "continente": "Oceania",
+      "capital": "Wellington"
+    },
+    {
+      "id": 22,
+      "nome": "Noruega",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "populacao": 5400000,
+      "lingua_falada": "Norueguês",
+      "continente": "Europa",
+      "capital": "Oslo"
+    },
+    {
+      "id": 23,
+      "nome": "Países Baixos",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "populacao": 17400000,
+      "lingua_falada": "Neerlandês",
+      "continente": "Europa",
+      "capital": "Amsterdã"
+    },
+    {
+      "id": 24,
+      "nome": "Coreia do Sul",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+      "populacao": 51800000,
+      "lingua_falada": "Coreano",
+      "continente": "Ásia",
+      "capital": "Seul"
+    },
+    {
+      "id": 25,
+      "nome": "Suécia",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+      "populacao": 10500000,
+      "lingua_falada": "Sueco",
+      "continente": "Europa",
+      "capital": "Estocolmo"
+    },
+    {
+      "id": 26,
+      "nome": "Finlândia",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+      "populacao": 5500000,
+      "lingua_falada": "Finlandês e Sueco",
+      "continente": "Europa",
+      "capital": "Helsinque"
+    },
+    {
+      "id": 27,
+      "nome": "Tailândia",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+      "populacao": 71000000,
+      "lingua_falada": "Tailandês",
+      "continente": "Ásia",
+      "capital": "Bangcoc"
+    },
+    {
+      "id": 28,
+      "nome": "Portugal",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+      "populacao": 10300000,
+      "lingua_falada": "Português",
+      "continente": "Europa",
+      "capital": "Lisboa"
+    },
+    {
+      "id": 29,
+      "nome": "Suíça",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "populacao": 8900000,
+      "lingua_falada": "Alemão, Francês, Italiano, Romanche",
+      "continente": "Europa",
+      "capital": "Berna"
+    },
+    {
+      "id": 30,
+      "nome": "Indonésia",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+      "populacao": 277000000,
+      "lingua_falada": "Indonésio",
+      "continente": "Ásia",
+      "capital": "Jacarta"
+    },
+    
+  {
+    "id": 31,
+    "nome": "Inglaterra",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+    "populacao": 56800000,
+    "lingua_falada": "Inglês",
+    "continente": "Europa",
+    "capital": "Londres",
+    "Copas_do_mundo": "1 masculina"
+  },
+  {
+    "id": 32,
+    "nome": "Costa do Marfim",
+    "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAFVBMVEX////3fwAAnmD3ewD5qHp6u5YAm1vkTpPsAAAA5UlEQVR4nO3QSQEAIAADoHn2j2yKvYQIZDSsnYpzZ0MkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQcL3CQ86tbh+5X8kwAAAAABJRU5ErkJggg==",
+    "populacao": 29000000,
+    "lingua_falada": "Francês",
+    "continente": "África",
+    "capital": "Yamoussoukro"
+  },
+  {
+    "id": 33,
+    "nome": "Gana",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+    "populacao": 34000000,
+    "lingua_falada": "Inglês",
+    "continente": "África",
+    "capital": "Acra"
+  },
+  {
+    "id": 34,
+    "nome": "Suécia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+    "populacao": 10500000,
+    "lingua_falada": "Sueco",
+    "continente": "Europa",
+    "capital": "Estocolmo"
+  },
+  {
+    "id": 35,
+    "nome": "Croácia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+    "populacao": 3900000,
+    "lingua_falada": "Croata",
+    "continente": "Europa",
+    "capital": "Zagreb"
+  },
+  {
+    "id": 36,
+    "nome": "Colômbia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+    "populacao": 52000000,
+    "lingua_falada": "Espanhol",
+    "continente": "América do Sul",
+    "capital": "Bogotá"
+  },
+  {
+    "id": 37,
+    "nome": "Peru",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+    "populacao": 34000000,
+    "lingua_falada": "Espanhol, Quéchua, Aimará",
+    "continente": "América do Sul",
+    "capital": "Lima"
+  },
+  {
+    "id": 38,
+    "nome": "Vietnã",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+    "populacao": 98000000,
+    "lingua_falada": "Vietnamita",
+    "continente": "Ásia",
+    "capital": "Hanói"
+  },
+  {
+    "id": 39,
+    "nome": "Filipinas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+    "populacao": 113000000,
+    "lingua_falada": "Filipino e Inglês",
+    "continente": "Ásia",
+    "capital": "Manila"
+  },
+  {
+    "id": 40,
+    "nome": "Malásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+    "populacao": 33000000,
+    "lingua_falada": "Malaio",
+    "continente": "Ásia",
+    "capital": "Kuala Lumpur"
+  },
+  {
+    "id": 41,
+    "nome": "Grécia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+    "populacao": 10300000,
+    "lingua_falada": "Grego",
+    "continente": "Europa",
+    "capital": "Atenas"
+  },
+  {
+    "id": 42,
+    "nome": "Irlanda",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+    "populacao": 5000000,
+    "lingua_falada": "Inglês e Irlandês",
+    "continente": "Europa",
+    "capital": "Dublin"
+  },
+  {
+    "id": 43,
+    "nome": "Dinamarca",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+    "populacao": 5900000,
+    "lingua_falada": "Dinamarquês",
+    "continente": "Europa",
+    "capital": "Copenhague"
+  },
+  {
+    "id": 44,
+    "nome": "Polônia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+    "populacao": 38000000,
+    "lingua_falada": "Polonês",
+    "continente": "Europa",
+    "capital": "Varsóvia"
+  },
+  {
+    "id": 45,
+    "nome": "Ucrânia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+    "populacao": 41000000,
+    "lingua_falada": "Ucraniano",
+    "continente": "Europa",
+    "capital": "Kiev"
+  },
+  {
+    "id": 46,
+    "nome": "Chile",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+    "populacao": 19600000,
+    "lingua_falada": "Espanhol",
+    "continente": "América do Sul",
+    "capital": "Santiago"
+  },
+  {
+    "id": 47,
+    "nome": "Equador",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+    "populacao": 18000000,
+    "lingua_falada": "Espanhol",
+    "continente": "América do Sul",
+    "capital": "Quito"
+  },
+  {
+    "id": 48,
+    "nome": "Paquistão",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+    "populacao": 240000000,
+    "lingua_falada": "Urdu e Inglês",
+    "continente": "Ásia",
+    "capital": "Islamabad"
+  },
+  {
+    "id": 49,
+    "nome": "Etiópia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+    "populacao": 126000000,
+    "lingua_falada": "Amárico",
+    "continente": "África",
+    "capital": "Adis Abeba"
+  },
+  {
+    "id": 50,
+    "nome": "Venezuela",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+    "populacao": 28000000,
+    "lingua_falada": "Espanhol",
+    "continente": "América do Sul",
+    "capital": "Caracas"
+  }
+
+
+
+  ]
+

@@ -1,0 +1,58 @@
+.filtros {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.filtros select {
+    width: 200px;
+    max-width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.filtros input[type="text"] {
+    width: 200px;
+    padding: 8px 8px 8px 35px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    background: #fff url("https://cdn-icons-png.flaticon.com/512/622/622669.png") no-repeat 8px center;
+    background-size: 18px 18px;
+}
+
+
+.load {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+}
+
+.load button {
+    padding: 10px 20px;
+    background: #3c9ce8;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.load button.dark-mode {
+    background: #bfbbbb;
+   
+}
+
+.load button:hover.dark-mode {
+    background: #bfbbbb;
+
+}
+
+.load button:hover {
+    background: #bfbbbb;
+    color: #000;
+}
