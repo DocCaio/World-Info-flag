@@ -1,4 +1,4 @@
-import  abrirModal  from "./modal.js";
+import { abrirModal } from './modal.js'
 
 let todosPaises = [];
 let quantidadeExibida = 0;
@@ -50,7 +50,7 @@ function preencherFiltros(paises) {
      selectCopa.appendChild(opNao); 
   }
 
-export function exibirPaises(lista) {
+export default function exibirPaises(lista) {
     const container = document.getElementById("flags-container");
     container.innerHTML = "";
 
