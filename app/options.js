@@ -50,7 +50,7 @@ function preencherFiltros(paises) {
      selectCopa.appendChild(opNao); 
   }
 
-export default function exibirPaises(lista) {
+     function exibirPaises(lista) {
     const container = document.getElementById("flags-container");
     container.innerHTML = "";
 

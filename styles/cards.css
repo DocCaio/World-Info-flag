@@ -6,6 +6,8 @@
 }
 
 .card {
+    max-width: 300px;
+    margin: 0 auto; 
     border: 1px solid #ccc;
     border-radius: 8px;
     padding: 16px;

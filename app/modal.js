@@ -23,7 +23,7 @@ function carregarPaises(info) {
 }
 
 
-function abrirModal(pais) {
+export function abrirModal(pais) {
   const modal = document.getElementById("modal");
   modal.innerHTML = `
     <div id="content">
@@ -67,7 +67,7 @@ function abrirModal(pais) {
        <img src="${pais.imagem}" alt="Bandeira de ${pais.nome}" style="width: 100px; margin-top: 10px;"> 
       </div>   
          <div>
-       <button onclick="fecharModal()">X</button>
+       <button onclick="fecharModal()" aria-label="Fechar modal">X</button>
       </div>   
       
     </div>
