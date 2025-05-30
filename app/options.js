@@ -75,8 +75,8 @@ function aplicarFiltros() {
       const cond1 = !continente || pais.continente === continente;
       const cond2 = 
   !copa || 
-  (copa === 'Sim' && pais["Copas do mundo"] && pais["Copas do mundo"] !== '0') ||
-  (copa === 'Não' && (!pais["Copas do mundo"] || pais["Copas do mundo"] === '0'));
+  (copa === 'Sim' && pais["Copas_do_mundo"] && pais["Copas_do_mundo"] !== '0') ||
+  (copa === 'Não' && (!pais["Copas_do_mundo"] || pais["Copas_do_mundo"] === '0'));
 
       const cond3 = !lingua || pais.lingua_falada === lingua;
       const cond4 = !busca || pais.nome.toLowerCase().includes(busca);

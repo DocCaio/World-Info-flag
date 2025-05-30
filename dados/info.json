@@ -460,6 +460,53 @@
     "lingua_falada": "Espanhol",
     "continente": "América do Sul",
     "capital": "Caracas"
+  },
+
+   {
+    "id": 51,
+    "nome": "Espanha",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "populacao": 48000000,
+    "lingua_falada": "Espanhol",
+    "continente": "Europa",
+    "capital": "Madri",
+    "Copas_do_mundo": "1 masculina 1 feminina"
+  },
+  {
+    "id": 52,
+    "nome": "Turquia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+    "populacao": 85000000,
+    "lingua_falada": "Turco",
+    "continente": "Europa/Ásia",
+    "capital": "Ancara"
+  },
+  {
+    "id": 53,
+    "nome": "Coreia do Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+    "populacao": 26000000,
+    "lingua_falada": "Coreano",
+    "continente": "Ásia",
+    "capital": "Pyongyang"
+  },
+  {
+    "id": 54,
+    "nome": "República Tcheca",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+    "populacao": 10700000,
+    "lingua_falada": "Tcheco",
+    "continente": "Europa",
+    "capital": "Praga"
+  },
+  {
+    "id": 55,
+    "nome": "Marrocos",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+    "populacao": 37000000,
+    "lingua_falada": "Árabe e Berbere",
+    "continente": "África",
+    "capital": "Rabat"
   }
 
 
