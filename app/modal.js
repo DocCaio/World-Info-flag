@@ -80,7 +80,8 @@ function fecharModal() {
   modal.style.display = "none";
 }
 
-window.fecharModal = fecharModal
+window.fecharModal = fecharModal;
+
 window.onclick = function (event) {
   const modal = document.getElementById("modal");
   if (event.target === modal) {
